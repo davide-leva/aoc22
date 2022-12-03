@@ -1,0 +1,11 @@
+class Solver:
+    def __init__(self, input_data: str):
+        self.input = input_data
+
+    def part_a(self):
+        input_data = self.input
+        return NotImplemented
+
+    def part_b(self):
+        input_data = self.input
+        return NotImplemented
