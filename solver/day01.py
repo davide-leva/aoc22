@@ -1,5 +1,5 @@
 class Solver:
-    def __init__(self, input_data):
+    def __init__(self, input_data, test_data):
         self.input = []
 
         for chunk in input_data.split('\n\n'):

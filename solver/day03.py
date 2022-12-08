@@ -22,7 +22,7 @@ def get_badge(elf1: str, elf2: str, elf3: str):
 
 
 class Solver:
-    def __init__(self, data):
+    def __init__(self, data, test):
         self.input = []
 
         for line in data.split('\n'):

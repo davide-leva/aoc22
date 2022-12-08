@@ -21,7 +21,7 @@ POINT = {
 
 
 class Solver:
-    def __init__(self, input_data):
+    def __init__(self, input_data, test_data):
         self.input = []
 
         for line in input_data:
