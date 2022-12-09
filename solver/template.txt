@@ -1,5 +1,5 @@
 class Solver:
-    def __init__(self, input_data: str):
+    def __init__(self, input_data: str, test_data: str):
         self.input = input_data
 
     def part_a(self):
